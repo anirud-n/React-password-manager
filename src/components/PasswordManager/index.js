@@ -170,7 +170,7 @@ class PasswordManager extends Component {
             <div className="btn-cont">
               <button
                 className="add-btn"
-                type="submit"
+                type="button"
                 onClick={this.addAPasswordList}
               >
                 Add
