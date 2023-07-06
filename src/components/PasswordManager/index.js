@@ -109,7 +109,7 @@ class PasswordManager extends Component {
           />
         </div>
         <div className="top-card">
-          <form className="input-card">
+          <div className="input-card">
             <h1 className="sub-heading">Add New Password</h1>
             <div className="total-input-cont">
               <div className="input-icon">
@@ -176,7 +176,7 @@ class PasswordManager extends Component {
                 Add
               </button>
             </div>
-          </form>
+          </div>
 
           <div className="image-cont">
             <img
